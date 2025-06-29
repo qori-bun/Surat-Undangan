@@ -11,7 +11,6 @@
       font-family: 'Open Sans', sans-serif;
       background: #fffafc;
       color: #4a3b47;
-      scroll-behavior: smooth;
     }
     h1, h2, h3 {
       font-family: 'Great Vibes', cursive;
@@ -28,7 +27,6 @@
       position: relative;
     }
     .hero-content {
-      animation: fadeOutUp 6s ease-in forwards;
     }
     @keyframes fadeOutUp {
       0% { opacity: 0; transform: translateY(30px); }
