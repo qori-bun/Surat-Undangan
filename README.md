@@ -26,7 +26,6 @@
       background: linear-gradient(to bottom right, #fbe9f2, #fff0f6);
       text-align: center;
       position: relative;
-      overflow: hidden;
     }
     .hero-content {
       animation: fadeOutUp 6s ease-in forwards;
