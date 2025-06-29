@@ -1,4 +1,3 @@
-
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -154,7 +153,6 @@
     <h1>Qoribun & Nurul</h1>
     <p>5 Agustus 2025</p>
     <p>Dengan segala hormat, kami mengundang Anda</p>
-    <div class="countdown" id="countdown"></div>
     <button onclick="showMainContent()">Lihat Undangan</button>
   </div>
 </div>
