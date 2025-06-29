@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Undangan Pernikahan Qoribun & Nurul</title>
-  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&family=Parisienne&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&family=Parisienne&display=" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <style>
     body {
@@ -22,7 +22,7 @@
       align-items: center;
       flex-direction: column;
       height: 100vh;
-      background: linear-gradient(to bottom right, #fbe9f2, #fff0f6);
+      background: linear-(to bottom right, #fbe9f2, #fff0f6);
       text-align: center;
       position: relative;
     }
@@ -56,7 +56,7 @@
       border: none;
       border-radius: 8px;
       cursor: pointer;
-      transition: background 0.3s;
+      : background 0.3s;
     }
     .hero button:hover {
       background: #a65e6d;
