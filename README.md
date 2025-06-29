@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -150,7 +150,7 @@
 </audio>
 <div class="hero" id="hero">
   <div class="hero-content">
-    <img src="undangan/mempelai.jpg" alt="mempelai">
+    <img src="qoribun&lathifah/mempelai.jpg" alt="mempelai">
     <h1>Qoribun & Nurul</h1>
     <p>5 Agustus 2025</p>
     <p>Dengan segala hormat, kami mengundang Anda</p>
@@ -161,9 +161,9 @@
 <div id="mainContent">
   <section class="section mempelai">
     <h2>Qoribun & Nurul Lathifah</h2>
-    <img src="undangan/qoribun.jpg" alt="qoribun">
+    <img src="qoribun&lathifah/qoribun.jpg" alt="qoribun">
     <p>Putra ke-5 dari Bapak Hasanuddin & Ibu Siti Alimah</p>
-    <img src="undangan/nurul.jpg" alt="nurul">
+    <img src="qoribun&lathifah/nurul.jpg" alt="nurul">
     <p>Putri pertama dari Bapak Ma'an Priyadi (Alm) & Ibu Tokhanah</p>
   </section>
   <section class="section">
